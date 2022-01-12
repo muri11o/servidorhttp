@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/muri11o/servidorhttp/master/computer.png"></img>
+<img src="https://raw.githubusercontent.com/muri11o/servidorhttp/computer.png"></img>
  
 # HTTP Server
 
